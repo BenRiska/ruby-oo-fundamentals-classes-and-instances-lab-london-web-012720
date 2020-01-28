@@ -1,5 +1,5 @@
-def Class Dog {
+Class Dog 
   
-}
+end
 
-fido = new Dog
+fido = Dog.new
